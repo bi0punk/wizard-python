@@ -1,0 +1,11 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+colorclass==2.2.2
+docopt==0.6.2
+idna==3.7
+packaging==24.1
+pip-upgrader==1.4.15
+pygame==2.6.0
+requests==2.32.3
+terminaltables==3.1.10
+urllib3==2.2.2
